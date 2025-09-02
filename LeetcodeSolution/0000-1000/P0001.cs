@@ -1,4 +1,4 @@
-﻿namespace LeetcodeSolution._0000_1000;
+﻿namespace LeetCodeSolution._0000_1000;
 
 public class P0001
 {
