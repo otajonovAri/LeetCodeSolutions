@@ -1,4 +1,4 @@
-﻿using LeetcodeSolution._0000_1000;
+﻿using LeetCodeSolution._0000_1000;
 
 namespace LeetcodeTest._0000_1000;
 

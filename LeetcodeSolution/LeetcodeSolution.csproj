@@ -6,10 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="1001-2000\" />
-    <Folder Include="2001-3000\" />
-    <Folder Include="3000-4000\" />
-  </ItemGroup>
-
 </Project>
