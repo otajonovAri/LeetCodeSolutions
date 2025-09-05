@@ -3,6 +3,7 @@ using LeetCodeSolution._0000_1000;
 
 namespace LeetCodeConsoleApp.Benchmark_0000_1000;
 
+[MemoryDiagnoser]
 public class ContainsDuplicateBenchmark
 {
     private readonly P0217 _solution = new P0217();

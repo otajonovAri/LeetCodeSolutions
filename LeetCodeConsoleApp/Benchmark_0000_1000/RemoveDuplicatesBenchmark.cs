@@ -3,6 +3,7 @@ using LeetCodeSolution._0000_1000;
 
 namespace LeetCodeConsoleApp.Benchmark_0000_1000;
 
+[MemoryDiagnoser]
 public class RemoveDuplicatesBenchmark
 {
     private readonly P0026 _solution = new P0026();

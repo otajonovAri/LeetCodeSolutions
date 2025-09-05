@@ -3,6 +3,7 @@ using LeetCodeSolution._0000_1000;
 
 namespace LeetCodeConsoleApp.Benchmark_0000_1000;
 
+[MemoryDiagnoser]
 public class ReverseBenchmark
 {
     private readonly P0007 _solution = new P0007();
