@@ -8,7 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LeetcodeTest\LeetcodeTest.csproj" />
+    <ProjectReference Include="..\LeetcodeTest\LeetCodeTest.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet.Exporters.Plotting" Version="0.15.2" />
   </ItemGroup>
 
 </Project>
